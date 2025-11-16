@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matplotlib&logoColor=white&style=for-the-badge" alt="MATLAB">
+  <code><a href="https://www.chipverify.com/tutorials/systemverilog" target="_blank" rel="noreferrer"><img src="SVicon.jpg" alt="sv" width="40" height="40"/></a></code>
+  <code><a href="https://www.chipverify.com/" target="_blank" rel="noreferrer"><img src="verilog.png" alt="verilog" width="40" height="40"/></a></code>
 </div>
 
 ---
