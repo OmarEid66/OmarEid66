@@ -113,7 +113,7 @@
 
 <h2>📫 Connect with Me</h2>
 <p>
-  <a href="https://github.com/AhmedBakrXI/AhmedBakrXI">
+  <a href="https://github.com/OmarEid66">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/omar-mohamed-eid-5727182b9">
