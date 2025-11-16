@@ -1,7 +1,7 @@
-<h1 align="center">Hello there <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50">, I'm Omar Mohamed Eid <img src="https://github.com/OmarEid66" width="30"></h1>
+<h1 align="center">Hello there <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50">, I'm Omar Mohamed Eid <img src=" https://github.com/OmarEid66" width="30"></h1>
 
 <p align="center">
-  <a href="https://github.com/AhmedBakrXI" target="_blank">
+  <a href="https://github.com/OmarEid66" target="_blank">
     <img src="https://img.shields.io/badge/Graduating_SOON-8A2BE2?style=for-the-badge&logo=starship&labelColor=36bcf7&link=https://&logoColor=white&color=0d1117&logoWidth=30&animation=glitch" alt="Graduating Soon Badge"/>
   </a>
 </p>
