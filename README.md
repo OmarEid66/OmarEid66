@@ -59,14 +59,6 @@
 
 ---
 
-<h2><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="30"> Notable Projects</h2>
-
-- 🏅 **Sponsored Graduation Project @ STMicroelectronics**  
-  Built a custom protocol to interface with embedded boards via a Qt Desktop app, integrated Zigbee APIs in the STM32WBA package, and developed a modern lightweight desktop app to visualize, monitor, and control Zigbee networks.
-
-- 🚀 **Virtual Screener App @ Siemens (Trainee Project)**  
-  Developed a full-stack app using React, Spring, and PostgreSQL, enabling video recording during online applicant exams for secure virtual screening.
-
 ---
 
 <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp; Stats</h2>
