@@ -20,9 +20,7 @@
 <br>
 
 - 🎓 Soon-to-be graduate in Computer and Systems Engineering @Ain Shams University.
-- 💻 Aspiring Software Engineer | Ex-Software Trainee @Siemens | GP Sponsored @STMicroelectronics
-- 🛠️ C/C++, Java, C#, Python, JS + Java Spring, JavaFX, Qt, Unity & more.
-- 🌱 Currently diving into ZigBee Networking and Embedded Systems.
+- 🛠️ C/C++, Java, Python, Verilog, VHDL, System Verilog, TCL Scripting & more.
 - 🔭 Always looking for new, inspiring projects to work on.
 - 🎨 Passionate about coding, creativity, and impactful innovation.
 - 😄 Merge conflicts are my cardio... and my therapy session.
