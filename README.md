@@ -59,8 +59,6 @@
 
 ---
 
----
-
 <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp; Stats</h2>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarEid66&theme=react-dark&area=true&hide_border=true&custom_title=Omar%20Mohamed's%20GitHub%20Activity&cache=v2&random=12345)
