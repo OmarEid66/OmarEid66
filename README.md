@@ -105,7 +105,7 @@
 
 [//]: # (<p align="center">)
 
-[//]: # (<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedBakrXI&theme=dracula&card_width=465" alt="GitHub Streak" /></a>)
+[//]: # (<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OmarEid66&theme=dracula&card_width=465" alt="GitHub Streak" /></a>)
 
 [//]: # (</p> )
 
