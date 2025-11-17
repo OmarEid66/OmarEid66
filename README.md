@@ -1,7 +1,7 @@
 <h1 align="center">Hello there <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50">, I'm Omar Mohamed Eid <img src="https://github.com/AhmedBakrXI/AhmedBakrXI/assets/114930002/db7b2fe1-5ff5-491c-9fec-3e13af7b3bfb" width="30"></h1>
 
 <p align="center">
-  <a href="https://github.com/AhmedBakrXI" target="_blank">
+  <a href="https://github.com/OmarEid66" target="_blank">
     <img src="https://img.shields.io/badge/Graduating_SOON-8A2BE2?style=for-the-badge&logo=starship&labelColor=36bcf7&link=https://&logoColor=white&color=0d1117&logoWidth=30&animation=glitch" alt="Graduating Soon Badge"/>
   </a>
 </p>
@@ -74,10 +74,10 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedBakrXI&theme=react-dark&area=true&hide_border=true&custom_title=Ahmed%20Bakr's%20GitHub%20Activity&cache=v2&random=12345)
 
 <p align="center">
-  <a href="https://github.com/AhmedBakrXI">
+  <a href="https://github.com/OmarEid66">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedBakrXI&show_icons=true&theme=algolia" />
   </a>
-  <a href="https://github.com/AhmedBakrXI">
+  <a href="https://github.com/OmarEid66">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBakrXI&layout=compact&theme=algolia" />
   </a>
 </p>
@@ -89,13 +89,13 @@
 
 [//]: # (<p align="center">)
 
-[//]: # (  <a href="https://github.com/AhmedBakrXI">)
+[//]: # (  <a href="https://github.com/OmarEid66">)
 
 [//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedBakrXI&show_icons=true&theme=dracula" />)
 
 [//]: # (  </a>)
 
-[//]: # (  <a href="https://github.com/AhmedBakrXI">)
+[//]: # (  <a href="https://github.com/OmarEid66">)
 
 [//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBakrXI&layout=compact&theme=dracula" />)
 
@@ -113,10 +113,10 @@
 
 <h2>📫 Connect with Me</h2>
 <p>
-  <a href="https://github.com/AhmedBakrXI/AhmedBakrXI">
+  <a href="https://github.com/OmarEid66">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-mohammed-bakr/">
+  <a href="www.linkedin.com/in/omar-mohamed-eid-5727182b9">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" />
   </a>
 </p>
