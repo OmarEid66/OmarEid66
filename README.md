@@ -71,7 +71,7 @@
 
 [//]: # (  <a href="https://github.com/OmarEid66">)
 
-[//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBakrXI&layout=compact&theme=dracula" />)
+[//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarEid66&layout=compact&theme=dracula" />)
 
 [//]: # (  </a>)
 
