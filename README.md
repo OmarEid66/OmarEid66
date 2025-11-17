@@ -20,6 +20,7 @@
 <br>
 
 - 🎓 Soon-to-be graduate in Computer and Systems Engineering @Ain Shams University.
+- 🌱 Currently diving into Digital Design and Verification.
 - 💻 Good Knowledge with tools: Model-Sim, Questa-Sim, Vivado, Design Compiler, Formality, Cadence Virtuso.
 - 🛠️ C/C++, Java, C#, Python, Verilog, System Verilog, TCL Scripting, VHDL & more.
 - 🔭 Always looking for new, inspiring projects to work on.
