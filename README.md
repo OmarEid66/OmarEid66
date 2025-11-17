@@ -20,9 +20,8 @@
 <br>
 
 - 🎓 Soon-to-be graduate in Computer and Systems Engineering @Ain Shams University.
-- 💻 Aspiring Software Engineer | Ex-Software Trainee @Siemens | GP Sponsored @STMicroelectronics
-- 🛠️ C/C++, Java, C#, Python, JS + Java Spring, JavaFX, Qt, Unity & more.
-- 🌱 Currently diving into ZigBee Networking and Embedded Systems.
+- 💻 Good Knowledge with tools: Model-Sim, Questa-Sim, Vivado, Design Compiler, Formality, Cadence Virtuso.
+- 🛠️ C/C++, Java, C#, Python, Verilog, System Verilog, TCL Scripting, VHDL & more.
 - 🔭 Always looking for new, inspiring projects to work on.
 - 🎨 Passionate about coding, creativity, and impactful innovation.
 - 😄 Merge conflicts are my cardio... and my therapy session.
@@ -56,16 +55,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matplotlib&logoColor=white&style=for-the-badge" alt="MATLAB">
 </div>
-
----
-
-<h2><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="30"> Notable Projects</h2>
-
-- 🏅 **Sponsored Graduation Project @ STMicroelectronics**  
-  Built a custom protocol to interface with embedded boards via a Qt Desktop app, integrated Zigbee APIs in the STM32WBA package, and developed a modern lightweight desktop app to visualize, monitor, and control Zigbee networks.
-
-- 🚀 **Virtual Screener App @ Siemens (Trainee Project)**  
-  Developed a full-stack app using React, Spring, and PostgreSQL, enabling video recording during online applicant exams for secure virtual screening.
 
 ---
 
