@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matplotlib&logoColor=white&style=for-the-badge" alt="MATLAB">
-  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](linux.org)
 </div>
 
 ---
